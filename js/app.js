@@ -43,3 +43,4 @@ const toggleSwitch = document.querySelector(
     }
 
   }
+
